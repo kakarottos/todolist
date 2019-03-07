@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?famili=Source+Sans+Pro');
+
+body
+{
+  margin:0;
+  padding:0;
+  font-family:'Source Sans Pro', sans-serif;
+  background: #1f2427;
+  color:#fff;
+  
+}
+
+
+
+
+
+.doneTodo{
+  color: red;
+  text-decoration: line-through
+}
+
